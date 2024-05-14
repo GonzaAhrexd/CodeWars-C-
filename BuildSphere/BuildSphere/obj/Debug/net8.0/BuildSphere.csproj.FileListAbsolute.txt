@@ -1,0 +1,14 @@
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\bin\Debug\net8.0\BuildSphere.exe
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\bin\Debug\net8.0\BuildSphere.deps.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\bin\Debug\net8.0\BuildSphere.runtimeconfig.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\bin\Debug\net8.0\BuildSphere.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\bin\Debug\net8.0\BuildSphere.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.AssemblyInfo.cs
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\refint\BuildSphere.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\BuildSphere.genruntimeconfig.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildSphere\BuildSphere\obj\Debug\net8.0\ref\BuildSphere.dll

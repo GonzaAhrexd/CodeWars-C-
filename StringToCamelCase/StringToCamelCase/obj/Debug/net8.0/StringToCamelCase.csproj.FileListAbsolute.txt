@@ -1,0 +1,14 @@
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\bin\Debug\net8.0\StringToCamelCase.exe
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\bin\Debug\net8.0\StringToCamelCase.deps.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\bin\Debug\net8.0\StringToCamelCase.runtimeconfig.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\bin\Debug\net8.0\StringToCamelCase.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\bin\Debug\net8.0\StringToCamelCase.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.AssemblyInfo.cs
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\refint\StringToCamelCase.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\StringToCamelCase.genruntimeconfig.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\StringToCamelCase\StringToCamelCase\obj\Debug\net8.0\ref\StringToCamelCase.dll
