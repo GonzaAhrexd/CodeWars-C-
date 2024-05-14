@@ -1,0 +1,15 @@
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\bin\Debug\net8.0\CountTheDays.exe
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\bin\Debug\net8.0\CountTheDays.deps.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\bin\Debug\net8.0\CountTheDays.runtimeconfig.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\bin\Debug\net8.0\CountTheDays.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\bin\Debug\net8.0\CountTheDays.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.AssemblyInfo.cs
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.sourcelink.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\refint\CountTheDays.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\CountTheDays.genruntimeconfig.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\CountTheDays\obj\Debug\net8.0\ref\CountTheDays.dll
