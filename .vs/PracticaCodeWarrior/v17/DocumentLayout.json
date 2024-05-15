@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\CountTheDays\\CountTheDays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CountTheDays\\CountTheDays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\WhoLikesIt\\Kata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WhoLikesIt\\Kata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5C0631-CAC0-4D30-8355-905940C7567E}|WhoLikesIt\\WhoLikesIt.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\wholikesit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5C0631-CAC0-4D30-8355-905940C7567E}|WhoLikesIt\\WhoLikesIt.csproj|solutionrelative:wholikesit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CountTheDays.csproj",
-              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\CountTheDays\\CountTheDays.csproj",
-              "RelativeDocumentMoniker": "CountTheDays\\CountTheDays.csproj",
-              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\CountTheDays\\CountTheDays.csproj",
-              "RelativeToolTip": "CountTheDays\\CountTheDays.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T22:03:27.254Z",
+              "Title": "Kata.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\WhoLikesIt\\Kata.cs",
+              "RelativeDocumentMoniker": "WhoLikesIt\\Kata.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\WhoLikesIt\\Kata.cs",
+              "RelativeToolTip": "WhoLikesIt\\Kata.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:15:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\WhoLikesIt\\Program.cs",
+              "RelativeDocumentMoniker": "WhoLikesIt\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\WhoLikesIt\\Program.cs",
+              "RelativeToolTip": "WhoLikesIt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:14:52.772Z",
               "EditorCaption": ""
             }
           ]

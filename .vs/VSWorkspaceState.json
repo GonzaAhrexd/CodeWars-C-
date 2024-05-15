@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WhoLikesIt\\bin",
+    "\\WhoLikesIt\\obj"
   ],
+  "SelectedNode": "\\WhoLikesIt",
   "PreviewInSolutionExplorer": false
 }
