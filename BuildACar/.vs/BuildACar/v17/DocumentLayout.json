@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\buildacar\\buildacar\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|solutionrelative:buildacar\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\buildacar\\buildacar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|solutionrelative:buildacar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\buildacar\\buildacar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|solutionrelative:buildacar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\buildacar\\buildacar\\fueltankdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|solutionrelative:buildacar\\fueltankdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\buildacar\\buildacar\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|solutionrelative:buildacar\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|c:\\users\\gonza\\documents\\practicacodewarrior\\buildacar\\buildacar\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B768FF6E-C716-4C64-AB2A-691997D67251}|BuildACar\\BuildACar.csproj|solutionrelative:buildacar\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\Program.cs",
+              "RelativeDocumentMoniker": "BuildACar\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\Program.cs",
+              "RelativeToolTip": "BuildACar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:19:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuelTankDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\FuelTankDisplay.cs",
+              "RelativeDocumentMoniker": "BuildACar\\FuelTankDisplay.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\FuelTankDisplay.cs",
+              "RelativeToolTip": "BuildACar\\FuelTankDisplay.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:42:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuelTank.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\FuelTank.cs",
+              "RelativeDocumentMoniker": "BuildACar\\FuelTank.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\FuelTank.cs",
+              "RelativeToolTip": "BuildACar\\FuelTank.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:41:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\Car.cs",
+              "RelativeDocumentMoniker": "BuildACar\\Car.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\Car.cs",
+              "RelativeToolTip": "BuildACar\\Car.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:41:40.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\Engine.cs",
+              "RelativeDocumentMoniker": "BuildACar\\Engine.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\Engine.cs*",
+              "RelativeToolTip": "BuildACar\\Engine.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:40:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\ICar.cs",
+              "RelativeDocumentMoniker": "BuildACar\\ICar.cs",
+              "ToolTip": "C:\\Users\\gonza\\Documents\\PracticaCodeWarrior\\BuildACar\\BuildACar\\ICar.cs",
+              "RelativeToolTip": "BuildACar\\ICar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:37:31.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

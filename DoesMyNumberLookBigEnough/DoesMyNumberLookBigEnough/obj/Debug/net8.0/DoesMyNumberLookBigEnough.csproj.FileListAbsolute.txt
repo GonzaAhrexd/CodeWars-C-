@@ -1,0 +1,15 @@
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\bin\Debug\net8.0\DoesMyNumberLookBigEnough.exe
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\bin\Debug\net8.0\DoesMyNumberLookBigEnough.deps.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\bin\Debug\net8.0\DoesMyNumberLookBigEnough.runtimeconfig.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\bin\Debug\net8.0\DoesMyNumberLookBigEnough.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\bin\Debug\net8.0\DoesMyNumberLookBigEnough.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.AssemblyInfo.cs
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.sourcelink.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\refint\DoesMyNumberLookBigEnough.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\DoesMyNumberLookBigEnough.genruntimeconfig.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\DoesMyNumberLookBigEnough\DoesMyNumberLookBigEnough\obj\Debug\net8.0\ref\DoesMyNumberLookBigEnough.dll

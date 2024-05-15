@@ -1,0 +1,15 @@
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.AssemblyInfo.cs
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.sourcelink.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\bin\Debug\net8.0\BuildACar.exe
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\bin\Debug\net8.0\BuildACar.deps.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\bin\Debug\net8.0\BuildACar.runtimeconfig.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\bin\Debug\net8.0\BuildACar.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\bin\Debug\net8.0\BuildACar.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\refint\BuildACar.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\BuildACar.genruntimeconfig.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\BuildACar\BuildACar\obj\Debug\net8.0\ref\BuildACar.dll
