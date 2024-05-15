@@ -1,0 +1,15 @@
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\bin\Debug\net8.0\HumanReadableTime.exe
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\bin\Debug\net8.0\HumanReadableTime.deps.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\bin\Debug\net8.0\HumanReadableTime.runtimeconfig.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\bin\Debug\net8.0\HumanReadableTime.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\bin\Debug\net8.0\HumanReadableTime.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.AssemblyInfo.cs
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.sourcelink.json
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\refint\HumanReadableTime.dll
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.pdb
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\HumanReadableTime.genruntimeconfig.cache
+C:\Users\gonza\Documents\PracticaCodeWarrior\HumanReadableTime\HumanReadableTime\obj\Debug\net8.0\ref\HumanReadableTime.dll

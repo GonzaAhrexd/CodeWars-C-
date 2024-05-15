@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountTheDays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e7f7b2896a4e5e05d88f97cb39490a2bc3d754")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6999bbe962a60f1fd406f7054918fda17cebcf01")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountTheDays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountTheDays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

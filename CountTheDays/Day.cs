@@ -9,6 +9,7 @@ namespace CountTheDays
     public class Day{
         public string countDays(DateTime d)
         {
+            Console.WriteLine(d == DateTime.Today);
             if(d.ToLongDateString().Equals(DateTime.Now.ToLongDateString())){
                 return "Today is the day!";
             }
